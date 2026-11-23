@@ -18,4 +18,6 @@ Stack: Java 25, Spring Boot 4.1.2, Maven.
 
 Nelle cartelle MG1 e MG2 il file `01_` è il percorso operativo della giornata; il file `02_` è il riferimento di dettaglio (prima/dopo, trappole, cosa si vede).
 
+L'esercizio finale della MG2 (migrazione di ShopFlow da Spring Boot 3.5 a 4.1.2) usa il progetto `shopflow-boot35` e la traccia `shopflow-boot35/ESERCIZIO.md`; soluzione e note per il docente sono in `MG2_.../03_soluzione-docente_*`.
+
 Nota: il materiale non è stato compilato né eseguito. Nel confronto Spring le voci con etichetta [?] vanno verificate e quelle con [GA] vanno ricontrollate dopo il rilascio di Spring Boot 4.2 (previsto 19/11/2026).

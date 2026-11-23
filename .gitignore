@@ -1,4 +1,3 @@
-MG2_lun-2026-11-23_Spring-Boot-3.5-a-4.1.2
 MG3_lun-2026-11-30_Architettura-del-codice
 MG4_mer-2026-12-02_AOP-ed-eventi
 MG5_ven-2026-12-04_Transazioni
@@ -7,3 +6,5 @@ MG7_ven-2026-12-11_Messaging-Kafka-ActiveMQ
 MG8_mar-2026-12-22_Sicurezza
 MG9_gio-2027-01-07_Consistenza-e-chiusura
 00_Test_di_ingresso
+MG2_lun-2026-11-23_Spring-Boot-3.5-a-4.1.2/03_soluzione-docente_migrazione-shopflow.patch
+MG2_lun-2026-11-23_Spring-Boot-3.5-a-4.1.2/03_soluzione-docente_esercizio-migrazione-shopflow.md

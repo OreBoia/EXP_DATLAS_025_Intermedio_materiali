@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:17'
+    environment:
+      - 'POSTGRES_DB=shopflow'
+      - 'POSTGRES_USER=shopflow'
+      - 'POSTGRES_PASSWORD=shopflow'
+    ports:
+      - '5432:5432'
